@@ -1,0 +1,12 @@
+Package: RPackageTestDemo
+Type: Package
+Title: A R Shiny Package for Demontration of Test
+Version: 0.0.0.9000
+Author: Zheng Cao
+Maintainer: Zheng Cao <zheng.cao@milliman.com>
+Description: This package includes a testable Shiny app for demo.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.0
+Imports: shiny, testthat, shinytest
